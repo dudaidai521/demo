@@ -5,6 +5,7 @@ public class Animal {
     protected void eat() {
         System.out.println("animal eat..");
 
+        System.out.println("hahhah");
         System.out.println(1233);
 
         System.out.println(33333333);
